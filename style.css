@@ -7,3 +7,7 @@
     width: 164px;
     height: 150.82px;
 }
+.cabecalho_titulo, .cabecalho__menu{
+
+    display: inline;
+}
