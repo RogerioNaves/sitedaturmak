@@ -17,6 +17,6 @@
     margin: 0px 0px 0px 100px;
 }
 .cabecalho_titulo_nome{
-    display: inline;
+    display: inline-block;
     margin: auto;
 }
