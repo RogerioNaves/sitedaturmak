@@ -1,6 +1,7 @@
 .cabecalho {
 
     background-color: #0285FE;
+
 }
 .cabecalho__imagem {
 
@@ -9,7 +10,8 @@
 }
 .cabecalho_titulo, .cabecalho__menu{
 
-    display: inline;
+    display: flex;
+    justify-content: space-around; 
 }
 .cabecalho__menu-item{
 
