@@ -48,6 +48,17 @@
 .escola__imagem {
     width: 300px;
     height: auto;
+    margin: 20px;
 
 
+}
+.escola__titulo {
+text-align: center;
+
+
+}
+
+.escola__paragrafo {
+
+    text-align: justify;
 }
