@@ -2,34 +2,52 @@
 
     background-color: #0285FE;
     display: flex;
-    justify-content: space-around; 
+    justify-content: space-around;
 
 }
+
 .cabecalho__imagem {
 
     width: 164px;
     height: 150.82px;
 }
-.cabecalho_titulo, .cabecalho__menu{
+
+.cabecalho_titulo,
+.cabecalho__menu {
 
     display: flex;
-    justify-content: space-around; 
+    justify-content: space-around;
 }
-.cabecalho__menu-item{
+
+.cabecalho__menu-item {
 
     display: inline;
     font-size: 32px;
     color: #0B2465;
     margin: 0px 0px 0px 100px;
 }
-.cabecalho_titulo_nome{
+
+.cabecalho_titulo_nome {
     display: inline-block;
     margin: auto;
     font-size: 45px;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     font-size: color #FFFFFF;
 }
-.escola {
 
+.escola {
+    margin: 20px;
+    padding: 20px;
+    background-color: #52A1E9;
     display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.escola__imagem {
+    width: 300px;
+    height: auto;
+
+
 }
