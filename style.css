@@ -18,6 +18,8 @@
 .cabecalho__menu-item{
 
     display: inline;
+    font-size: 32px;
+    color: #0B2465;
     margin: 0px 0px 0px 100px;
 }
 .cabecalho_titulo_nome{
