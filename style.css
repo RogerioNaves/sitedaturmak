@@ -11,6 +11,7 @@
 
     width: 164px;
     height: 150.82px;
+    
 }
 
 .cabecalho_titulo,
@@ -43,6 +44,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 5px 5px 5px 5px;
    
 
 }
