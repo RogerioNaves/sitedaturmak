@@ -74,8 +74,18 @@ text-align: center;
 }
 
 .professores{
-background-color: #0B2465;
+background-color: #A4CAF6;
 border-radius: 40%;
 margin: 20px;
 padding: 20px;
+}
+
+.professore__div {
+text-align: center;
+
+}
+.professore__div-imagem {
+width: 120px;
+height: auto;
+
 }
