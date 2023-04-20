@@ -72,3 +72,10 @@ text-align: center;
 
     text-align: justify;
 }
+
+.professores{
+background-color: #0B2465;
+border-radius: 40%;
+margin: 20px;
+padding: 20px;
+}
