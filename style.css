@@ -76,6 +76,7 @@ text-align: center;
 .escola__paragrafo {
 
     text-align: justify;
+
 }
 
 .professores{
@@ -86,7 +87,7 @@ justify-items: center;
 gap: 20px;
 background-color: #A4CAF6;
 border-radius: 40 40 40 40 ;
-margin: 20px;
+margin: 120px;
 padding: 20px;
 
 }
