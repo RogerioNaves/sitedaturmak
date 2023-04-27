@@ -87,7 +87,7 @@ justify-items: center;
 gap: 20px;
 background-color: #A4CAF6;
 border-radius: 40 40 40 40 ;
-margin: 120px;
+margin: 20px;
 padding: 20px;
 
 }
@@ -101,4 +101,8 @@ text-align: center;
 width: 120px;
 height: auto;
 
+}
+
+.professores__div-paragrafo{
+    width: 120px;
 }
